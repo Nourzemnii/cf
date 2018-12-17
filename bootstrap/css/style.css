@@ -1,0 +1,61 @@
+ body{
+     background-color:aquamarine;
+     
+ }
+ #tot{
+    padding-top: 50px;
+    margin-left: 100PX;
+    font-size: 25px;
+    
+   
+}
+.parag{
+    padding-left: 20px;
+}
+#titre1{
+    color: white;
+    display: inline-block;
+}
+#titre2{display: inline-block;}
+ #photo{
+     height: 300px;
+     width: 400px;
+ }
+
+#corner{
+    border-radius: 10px;
+}
+#p1 {
+background-color: rgb(82, 85, 85);
+margin-left: 100px;
+height: 600px;
+display: inline-block;
+border-width:2px;
+ border-style:solid ;
+ border-color:black;
+}
+#p2 {
+background-color: white;
+margin-right: 70px;
+height: 600px;
+display: inline-block;
+padding-left: 30px;
+border-width:2px;
+ border-style:solid ;
+ border-color:black;
+ 
+
+}
+.les2 {
+display:inline;
+
+
+}
+#msg {
+    height: 100px;
+    width: 650px;
+}
+#sub{
+    width: 650px;
+    height: 30px;
+}
